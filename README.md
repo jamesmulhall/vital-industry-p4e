@@ -1,6 +1,6 @@
 # Vital Industry P4E Calculations
 
-[![DOI](https://zenodo.org/badge/520046482.svg)](https://osf.io/preprints/osf/h7wte)
+[![DOI](https://zenodo.org/badge/520046482.svg)](https://osf.io/preprints/osf/h7wte) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
