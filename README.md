@@ -1,10 +1,9 @@
 # Vital Industry P4E Calculations
 
-[![DOI](https://zenodo.org/badge/520046482.svg)](https://osf.io/preprints/osf/h7wte) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-- Supplementary code for the [Guesstimate model](https://www.getguesstimate.com/models/23914) used in the paper "[Developing back-up plans to protect vital sectors in super-pandemics](https://osf.io/preprints/osf/h7wte)".
+- Supplementary code for the Guesstimate model used in the paper "Developing back-up plans to protect vital sectors in extreme pandemics".
 - Mirrors Guesstimate code estimating pandemic-proof PPE supply and demand, runs a sensitivity analysis, and generates Figures 1 and 2 from the paper.
 
 ## Installation
